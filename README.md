@@ -6,6 +6,28 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+# Frontend - My Fullstack App
+
+## Requisitos
+- Node.js >= 16
+- npm o yarn
+
+## Instalación
+1. Clonar el repositorio:
+   ```bash
+   git clone https://github.com/JaumeMIR12/project-client.git
+   cd my-fullstack-client
+
+## Instalar dependencias:
+
+npm install
+
+## Ejecutar el servidor de desarrollo:
+
+npm start
+
+Asegúrate de que el backend está corriendo en http://localhost:8000
+
 ### `npm start`
 
 Runs the app in the development mode.\
